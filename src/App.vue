@@ -59,10 +59,10 @@
         </div>
         <div class="flex justify-center items-center flex-col">
           <h6 class="pt-3 pb-5 font-semibold text-[20px]">
-            Support 24/7
+            Soporte 24/7
           </h6>
           <p class="text-[#818992] text-[17px] w-[80%]">
-            Phasellus lobortis justo a magna facilisis, in commodo tellus rutrum. Sed vitae condimentum nulla.
+            Asistencia ininterrumpida con nuestro servicio de soporte disponible las 24 horas, los 7 días de la semana, para resolver sus problemas en tiempo real.
           </p>
         </div>
       </article>
@@ -72,10 +72,10 @@
         </div>
         <div class="flex justify-center items-center flex-col">
           <h6 class="pt-3 pb-5 font-semibold text-[20px]">
-            Mobile Plataform
+            Innovación
           </h6>
           <p class="text-[#818992] text-[17px] w-[80%]">
-            Phasellus lobortis justo a magna facilisis, in commodo tellus rutrum. Sed vitae condimentum nulla.
+            Sumérjase en la era digital con nuestras soluciones innovadoras, impulsando la eficiencia y la vanguardia en su negocio.
           </p>
         </div>
       </article>
@@ -85,10 +85,10 @@
         </div>
         <div class="flex justify-center items-center flex-col">
           <h6 class="pt-3 pb-5 font-semibold text-[20px]">
-            Fast
+            Agilidad Empresarial
           </h6>
           <p class="text-[#818992] text-[17px] w-[80%]">
-            Phasellus lobortis justo a magna facilisis, in commodo tellus rutrum. Sed vitae condimentum nulla.
+            Optimice la agilidad de su negocio con nuestras soluciones diseñadas para adaptarse rápidamente a los cambios del mercado y las demandas del cliente.
           </p>
         </div>
       </article>
@@ -117,37 +117,37 @@
         <span class="line"></span>
       </h3>
       <p class="text-[#818992] text-[18px]  w-[50%] text-center">
-        Sed quis nisi nisi. Proin consectetur porttitor dui sit amet viverra. Fusce sit amet lorem faucibus, vestibulum ante in, pharetra ante.
+        Explore respuestas concisas a las preguntas más frecuentes sobre nuestras soluciones.
       </p>
     </header>
 
     <section class="flex flex-col md:flex-row gap-10 px-[50px] md:px-[120px] my-[100px]">
       <article class="flex flex-col flex-wrap gap-[50px] text-center sm:text-left">
         <div>
-          <h6 class="text-[20px] py-2">¿Lorem, ipsum dolor?</h6>
-          <p class="text-[#818992]">Quod soluta modi adipisci saepe cumque distinctio dolorem doloremque reprehenderit.</p>
+          <h6 class="text-[20px] py-2">¿Cuáles son las principales soluciones IT que ofrecen?</h6>
+          <p class="text-[#818992]">Brindamos soluciones IT avanzadas para aplicaciones móviles en Android y iOS.</p>
         </div>
         <div>
-          <h6 class="text-[20px] py-2">¿Lorem, ipsum dolor?</h6>
-          <p class="text-[#818992]">Quod soluta modi adipisci saepe cumque distinctio dolorem doloremque reprehenderit.</p>
+          <h6 class="text-[20px] py-2">¿Cómo nos beneficia trabajar con ustedes?</h6>
+          <p class="text-[#818992]">Colaborar con nosotros garantiza acceso a tecnologías de punta y asesoramiento experto para mantener su negocio competitivo.</p>
         </div>
         <div>
-          <h6 class="text-[20px] py-2">¿Lorem, ipsum dolor?</h6>
-          <p class="text-[#818992]">Quod soluta modi adipisci saepe cumque distinctio dolorem doloremque reprehenderit.</p>
+          <h6 class="text-[20px] py-2">¿Cuánto tiempo lleva implementar sus soluciones?</h6>
+          <p class="text-[#818992]">El tiempo de implementación varía, pero nos esforzamos por lograr una integración eficiente en plazos razonables.</p>
         </div>
       </article>
       <article class="flex flex-col flex-wrap gap-[50px] text-center sm:text-left">
         <div>
-          <h6 class="text-[20px] py-2">¿Lorem, ipsum dolor?</h6>
-          <p class="text-[#818992]">Quod soluta modi adipisci saepe cumque distinctio dolorem doloremque reprehenderit.</p>
+          <h6 class="text-[20px] py-2">¿Qué medidas toman para proteger la privacidad de nuestros datos?</h6>
+          <p class="text-[#818992]">Implementamos protocolos de seguridad robustos para garantizar la confidencialidad y la integridad de la información de nuestros clientes basados en normas ISO.</p>
         </div>
         <div>
-          <h6 class="text-[20px] py-2">¿Lorem, ipsum dolor?</h6>
-          <p class="text-[#818992]">Quod soluta modi adipisci saepe cumque distinctio dolorem doloremque reprehenderit.</p>
+          <h6 class="text-[20px] py-2">¿Ofrecen soporte técnico continuo?</h6>
+          <p class="text-[#818992]">Sí, proporcionamos soporte técnico continuo para resolver cualquier problema y garantizar un funcionamiento sin problemas de nuestras soluciones.</p>
         </div>
         <div>
-          <h6 class="text-[20px] py-2">¿Lorem, ipsum dolor?</h6>
-          <p class="text-[#818992]">Quod soluta modi adipisci saepe cumque distinctio dolorem doloremque reprehenderit.</p>
+          <h6 class="text-[20px] py-2"> ¿Cómo nos mantienen actualizados sobre las últimas tendencias tecnológicas?</h6>
+          <p class="text-[#818992]">Mantenemos a nuestros clientes informados mediante actualizaciones periódicas y capacitaciones para aprovechar al máximo las innovaciones tecnológicas relevantes.</p>
         </div>
       </article>
     </section>
@@ -158,11 +158,11 @@
 
     <header class="flex justify-center flex-col items-center mt-[100px] mb-[50px]">
       <h3 class="font-bold text-[1.75rem] text-center">
-        Lorem ipsum dolor sit amet.
+        Clientes Satisfechos
         <span class="line"></span>
       </h3>
       <p class="text-[#818992] text-[18px]  w-[50%] text-center">
-        Sed quis nisi nisi. Proin consectetur porttitor dui sit amet viverra. Fusce sit amet lorem faucibus, vestibulum ante in, pharetra ante.
+        Marcas que confían en nosotros
       </p>
     </header>
 
@@ -187,7 +187,7 @@
           <span class="line2"></span>
           </h3>
           <p class="text-[18px] w-[80%] text-center leading-7">
-            Sed quis nisi nisi. Proin consectetur porttitor dui sit amet viverra. Fusce sit amet lorem faucibus, vestibulum ante in, pharetra ante.
+            Descubra cómo hemos impulsado el crecimiento y el éxito de nuestros clientes.
           </p>
         </header>
   </section>
