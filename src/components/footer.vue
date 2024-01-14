@@ -4,7 +4,7 @@
             <article class="flex flex-col gap-6 w-full md:justify-start justify-center md:items-start items-center md:text-start text-center md:w-[50%]">
                 <div class="">
                     <h1 class="text-2xl">Quiebratech</h1>
-                    <p class="opacity-60 mt-3 text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab natus numquam, debitis accusamus nobis dolorum cupiditate ex laudantium dolore sed!</p>
+                    <p class="opacity-60 mt-3 text-lg">Trabajamos incansablemente para transformar sus desafíos en oportunidades, ofreciendo un enfoque personalizado que eleva su presencia en el mercado.</p>
                 </div>
                 <div class="h-100 w-[150px]">
                     <img src="../../public/img/FavCon.jpg" alt="">
