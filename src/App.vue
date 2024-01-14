@@ -24,8 +24,7 @@
               Como expertos en el campo, no solo proporcionamos soluciones de vanguardia en tecnologías de la información, sino que también le ofrecemos una guía personalizada a lo largo de todo el proceso.  Nos enfocamos en ayudar a mantener su negocio en la vanguardia, asegurándonos de que esté equipado para enfrentar los desafíos actuales y futuros con éxito
             </p>
             <div class="flex justify-center items-center flex-col sm:flex-row lg:justify-start pt-10 gap-4">
-              <a href="#" class="bg-black py-2.5 w-[150px] md:w-[180px] rounded-md text-center">¡Contactanos!</a>
-              <a href="#" class="bg-black py-2.5 w-[150px] md:w-[180px] rounded-md text-center">¡Crea tu App!</a>
+              <a href="#" class="bg-black py-2.5 w-[150px] md:w-[200px] rounded-md text-center">¡Contactanos!</a>
             </div>
           </div>
       </section>
@@ -183,7 +182,7 @@
   <section class="section-footer h-[400px] flex justify-center items-center">
         <header class="flex justify-center flex-col items-center text-white z-30 relative">
           <h3 class="font-bold text-[1.75rem] text-center">
-            ¡Obten tu propia App!
+            ¡Potencia tu negocio!
           <span class="line2"></span>
           </h3>
           <p class="text-[18px] w-[80%] text-center leading-7">
