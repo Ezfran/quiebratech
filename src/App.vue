@@ -24,7 +24,7 @@
               Como expertos en el campo, no solo proporcionamos soluciones de vanguardia en tecnologías de la información, sino que también le ofrecemos una guía personalizada a lo largo de todo el proceso.  Nos enfocamos en ayudar a mantener su negocio en la vanguardia, asegurándonos de que esté equipado para enfrentar los desafíos actuales y futuros con éxito
             </p>
             <div class="flex justify-center items-center flex-col sm:flex-row lg:justify-start pt-10 gap-4">
-              <a href="https://wa.me/5493644845060" class="bg-black py-2.5 w-[150px] md:w-[200px] rounded-md text-center">¡Contactanos!</a>
+              <a href="https://wa.me/5493644845060" target="_blank" class="bg-black py-2.5 w-[150px] md:w-[200px] rounded-md text-center">¡Contactanos!</a>
             </div>
           </div>
       </section>
@@ -94,7 +94,7 @@
     </div>
 
     <div class="flex justify-center my-[90px]">
-      <a href="https://wa.me/5493644845060" class="border-[#0000B7] hover:bg-[#0000B7] hover:text-white text-[#0000B7] border-2 py-2.5 px-10 text-xl rounded-md">¡Conoce más!</a>
+      <a href="https://wa.me/5493644845060" target="_blank" class="border-[#0000B7] hover:bg-[#0000B7] hover:text-white text-[#0000B7] border-2 py-2.5 px-10 text-xl rounded-md">¡Conoce más!</a>
     </div>
 
 

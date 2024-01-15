@@ -16,13 +16,13 @@
                 </div>
                 <ul class="flex flex-col mt-2 gap-2">
                     <li>
-                        <a href="https://www.linkedin.com/company/quebratech" class="text-lg opacity-60 hover:opacity-100 duration-300">Linkedin</a>
+                        <a href="https://www.linkedin.com/company/quebratech" target="_blank" class="text-lg opacity-60 hover:opacity-100 duration-300">Linkedin</a>
                     </li>
                     <li>
-                        <a href="https://www.instagram.com/quebratech_?igsh=MThrM3BqaWhxOGFuMQ" class="text-lg opacity-60 hover:opacity-100 duration-300">Instagram</a>
+                        <a href="https://www.instagram.com/quebratech_?igsh=MThrM3BqaWhxOGFuMQ" target="_blank" class="text-lg opacity-60 hover:opacity-100 duration-300">Instagram</a>
                     </li>
                     <li>
-                        <a href="https://wa.me/5493644845060" class="text-lg opacity-60 hover:opacity-100 duration-300">WhatsApp</a>
+                        <a href="https://wa.me/5493644845060"  target="_blank" class="text-lg opacity-60 hover:opacity-100 duration-300">WhatsApp</a>
                     </li>
                 </ul>
             </article>
