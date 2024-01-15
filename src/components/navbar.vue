@@ -22,44 +22,58 @@ export default {
             <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
         </button>
         <ul class="lg:flex gap-7 font-semibold uppercase text-white text-[13px] mr-[72px] hidden">
-            <li class="text-[#00CCC6]  hover:cursor-pointer ">
-                Inicio
+            <li class="text-[#00CCC6]  hover:cursor-pointer">
+                <a href="#">
+                    Inicio
+                </a>
             </li> 
-            <li class="hover:text-[#00CCC6]  hover:cursor-pointer ">
-                Nosotros
+            <li class="hover:text-[#00CCC6]  hover:cursor-pointer">
+                <a href="#nosotros">
+                    Nosotros
+                </a>
             </li> 
-            <li class="hover:text-[#00CCC6]  hover:cursor-pointer ">
-                Servicios
+            <li class="hover:text-[#00CCC6]  hover:cursor-pointer">
+                <a href="#servicios">
+                    Servicios
+                </a>
             </li> 
-            <li class="hover:text-[#00CCC6]  hover:cursor-pointer ">
-                Features
-            </li>
-            <li class="hover:text-[#00CCC6]  hover:cursor-pointer ">
-                FAQ
+            <li class="hover:text-[#00CCC6]  hover:cursor-pointer">
+                <a href="#asked">
+                    FAQ
+                </a>
             </li> 
-            <li class="hover:text-[#00CCC6]  hover:cursor-pointer ">
-                Contacto
+            <li class="hover:text-[#00CCC6]  hover:cursor-pointer">
+                <a href="#footer">
+                    Contacto
+                </a>
             </li> 
         </ul>
     </nav>
     <ul class="absolute left-0 bg-white w-[100vw] z-40 flex flex-col items-center gap-6 p-8 slide-nav" :class="{ 'slide-nav-p': this.navbarMenu }">
-            <li class="text-[#00CCC6] hover:cursor-pointer ">
-                Inicio
+        <li class="text-[#00CCC6]  hover:cursor-pointer">
+                <a href="#">
+                    Inicio
+                </a>
             </li> 
-            <li class="hover:text-[#00CCC6]  hover:cursor-pointer ">
-                Nosotros
+            <li class="hover:text-[#00CCC6]  hover:cursor-pointer">
+                <a href="#nosotros">
+                    Nosotros
+                </a>
             </li> 
-            <li class="hover:text-[#00CCC6]  hover:cursor-pointer ">
-                Servicios
+            <li class="hover:text-[#00CCC6]  hover:cursor-pointer">
+                <a href="#servicios">
+                    Servicios
+                </a>
             </li> 
-            <li class="hover:text-[#00CCC6]  hover:cursor-pointer ">
-                Features
-            </li>
-            <li class="hover:text-[#00CCC6]  hover:cursor-pointer ">
-                FAQ
+            <li class="hover:text-[#00CCC6]  hover:cursor-pointer">
+                <a href="#asked">
+                    FAQ
+                </a>
             </li> 
-            <li class="hover:text-[#00CCC6]  hover:cursor-pointer ">
-                Contacto
+            <li class="hover:text-[#00CCC6]  hover:cursor-pointer">
+                <a href="#footer">
+                    Contacto
+                </a>
             </li> 
         </ul>
 </template>

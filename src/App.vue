@@ -24,7 +24,7 @@
               Como expertos en el campo, no solo proporcionamos soluciones de vanguardia en tecnologías de la información, sino que también le ofrecemos una guía personalizada a lo largo de todo el proceso.  Nos enfocamos en ayudar a mantener su negocio en la vanguardia, asegurándonos de que esté equipado para enfrentar los desafíos actuales y futuros con éxito
             </p>
             <div class="flex justify-center items-center flex-col sm:flex-row lg:justify-start pt-10 gap-4">
-              <a href="#" class="bg-black py-2.5 w-[150px] md:w-[200px] rounded-md text-center">¡Contactanos!</a>
+              <a href="https://wa.me/5493644845060" class="bg-black py-2.5 w-[150px] md:w-[200px] rounded-md text-center">¡Contactanos!</a>
             </div>
           </div>
       </section>
@@ -40,7 +40,7 @@
     </div>
   </main>
 
-  <section class="mt-[90px]">
+  <section class="mt-[90px]" id="nosotros">
     <header class="flex justify-center flex-col items-center">
       <h3 class="font-bold text-[1.75rem]">
         Nosotros
@@ -51,7 +51,7 @@
       </p>
     </header>
 
-    <div class="items-center mt-[80px] div-grid">
+    <div class="items-center mt-[80px] div-grid" id="servicios">
       <article class="flex justify-center flex-col items-center text-center w-100">
         <div class="rounded-full rounded-bg text-[35px] text-white">
           <font-awesome-icon icon="headset" />
@@ -94,7 +94,7 @@
     </div>
 
     <div class="flex justify-center my-[90px]">
-      <a href="#" class="border-[#0000B7] hover:bg-[#0000B7] hover:text-white text-[#0000B7] border-2 py-2.5 px-10 text-xl rounded-md">¡Conoce más!</a>
+      <a href="https://wa.me/5493644845060" class="border-[#0000B7] hover:bg-[#0000B7] hover:text-white text-[#0000B7] border-2 py-2.5 px-10 text-xl rounded-md">¡Conoce más!</a>
     </div>
 
 
@@ -109,7 +109,7 @@
     </section>
   </section>
 
-  <section>
+  <section id="asked">
     <header class="flex justify-center flex-col items-center mt-[100px]">
       <h3 class="font-bold text-[1.75rem] text-center">
         Frequently Asked Questions
@@ -190,10 +190,9 @@
           </p>
         </header>
   </section>
-  <footer>
+  <footer id="footer">
     <footerCompt></footerCompt>
   </footer>
-
 </template>
 
 <style>

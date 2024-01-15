@@ -16,13 +16,13 @@
                 </div>
                 <ul class="flex flex-col mt-2 gap-2">
                     <li>
-                        <a href="#" class="text-lg opacity-60 hover:opacity-100 duration-300">Facebook</a>
+                        <a href="https://www.linkedin.com/company/quebratech" class="text-lg opacity-60 hover:opacity-100 duration-300">Linkedin</a>
                     </li>
                     <li>
-                        <a href="#" class="text-lg opacity-60 hover:opacity-100 duration-300">Instagram</a>
+                        <a href="https://www.instagram.com/quebratech_?igsh=MThrM3BqaWhxOGFuMQ" class="text-lg opacity-60 hover:opacity-100 duration-300">Instagram</a>
                     </li>
                     <li>
-                        <a href="#" class="text-lg opacity-60 hover:opacity-100 duration-300">WhatsApp</a>
+                        <a href="https://wa.me/5493644845060" class="text-lg opacity-60 hover:opacity-100 duration-300">WhatsApp</a>
                     </li>
                 </ul>
             </article>
@@ -35,19 +35,16 @@
                         <a href="#" class="text-lg opacity-60 hover:opacity-100 duration-300">Inicio</a>
                     </li>
                     <li>
-                        <a href="#" class="text-lg opacity-60 hover:opacity-100 duration-300">Nosotros</a>
+                        <a href="#nosotros" class="text-lg opacity-60 hover:opacity-100 duration-300">Nosotros</a>
                     </li>
                     <li>
-                        <a href="#" class="text-lg opacity-60 hover:opacity-100 duration-300">Servicios</a>
+                        <a href="#servicios" class="text-lg opacity-60 hover:opacity-100 duration-300">Servicios</a>
                     </li>
                     <li>
-                        <a href="#" class="text-lg opacity-60 hover:opacity-100 duration-300">Features</a>
+                        <a href="#asked" class="text-lg opacity-60 hover:opacity-100 duration-300">FAQ</a>
                     </li>
                     <li>
-                        <a href="#" class="text-lg opacity-60 hover:opacity-100 duration-300">FAQ</a>
-                    </li>
-                    <li>
-                        <a href="#" class="text-lg opacity-60 hover:opacity-100 duration-300">Contacto</a>
+                        <a href="#footer" class="text-lg opacity-60 hover:opacity-100 duration-300">Contacto</a>
                     </li>
                 </ul>
             </article>
